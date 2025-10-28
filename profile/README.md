@@ -14,6 +14,6 @@
 
 詳しい情報は是非公式サイトまたはSNSよりご確認ください。
 
-[関連リンクはこちらから](https://github.com/gscstunion/.github/tree/main/web/)
+[関連リンクはこちらから](https://github.com/gscstunion/.github/blob/main/web/README.md)
 
 © GSC学生連合 All rights reserved
